@@ -1,2 +1,2 @@
-# solana-seahorse
-Solana Seahorse University
+# Solana Seahorse
+
